@@ -13,33 +13,37 @@ const classes: Array<ClassType> = [
   {
     name: "Weight Training Classes",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Join our invigorating weight training classes to build strength, tone muscles, and achieve your fitness goals efficiently. Led by expert trainers, our classes empower you to unleash your full potential.",
     image: image1,
   },
   {
     name: "Yoga Classes",
+    description:
+      "Find inner peace and enhance flexibility in our serene Yoga Classes. Led by experienced instructors, these sessions provide a holistic approach to wellness, promoting physical and mental harmony for all participants.",
     image: image2,
   },
   {
     name: "Ab Core Classes",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Sculpt and strengthen your core with our Ab Core classes. Led by expert instructors, these workouts will help you achieve a toned midsection and improved core strength in just 30 minutes.",
     image: image3,
   },
   {
     name: "Adventure Classes",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Embark on exhilarating fitness journeys with Adventure Classes. Guided by experienced instructors, these sessions blend fun and fitness for an unforgettable workout experience. Explore new horizons in every class.",
     image: image4,
   },
   {
     name: "Fitness Classes",
+    description:
+      "Join our dynamic Fitness Classes, guided by expert instructors. These diverse workouts cater to all levels, fostering strength, endurance, and overall well-being for a healthier you.",
     image: image5,
   },
   {
     name: "Training Classes",
     description:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+      "Elevate your fitness with our comprehensive Training Classes. Led by expert instructors, these sessions cater to all levels, ensuring you reach your goals effectively and with confidence.",
     image: image6,
   },
 ];
